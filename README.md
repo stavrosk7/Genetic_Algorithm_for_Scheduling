@@ -20,11 +20,11 @@ https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
 ```
 You can either make a local or a global installation. 
 
-* \textbf{Open:} the folder ``GeneticAlgorithmforScheduling`` 
+* Open: the folder ``GeneticAlgorithmforScheduling`` 
 * Edit: the `` .cfg`` ﬁles in the folder ``GeneticAlgorithmforScheduling`` 
 * Run: ``GeneticAlgorithmforScheduling/main.m``
 
-* EvaluateObjectives.m	Create EvaluateObjectives.m	a year ago
+** EvaluateObjectives.m	Create EvaluateObjectives.m	a year ago
 * GenerateInitialPopulation.m	Create GenerateInitialPopulation.m	a year ago
 * InitialInstances.m	Create InitialInstances.m	a year ago
 * README.md	Update README.md	3 minutes ago
