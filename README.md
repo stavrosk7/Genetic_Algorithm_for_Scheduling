@@ -26,24 +26,17 @@ You can either make a local or a global installation.
 
 
 
-##### ``inst10-10-10-5.cfg``
-##### ``algorithm_parameters.cfg``	
-##### ``dedication.cfg``
-
 #### ``main.m``	main
-
-##### ``InitialInstances.m``	Create InitialInstances.m	a year ago
-##### ``GenerateInitialPopulation.m``	Create GenerateInitialPopulation.m	a year ago
+##### ``InitialInstances.m``	
+###### ``inst10-10-10-5.cfg``
+###### ``algorithm_parameters.cfg``	
+###### ``dedication.cfg``
+##### ``GenerateInitialPopulation.m``	
 ##### ``Selection_EvolutionaryOperators.m``	
-
-
-##### ``EvaluateObjectives.m``	Create EvaluateObjectives.m	a year ago
-
-##### ``UpdatePopulation.m``	Rename UpdatePopulation to UpdatePopulation.m	a year ago
-
-#####  ``findpaths.m``	
-
-##### ``ReturnBestSolution.m``	Create ReturnBestSolution.m	a year ago
+######  ``findpaths.m``	
+##### ``EvaluateObjectives.m``	
+##### ``UpdatePopulation.m``	
+##### ``ReturnBestSolution.m``	
 
 
 
