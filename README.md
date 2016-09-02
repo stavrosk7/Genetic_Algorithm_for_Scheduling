@@ -40,7 +40,7 @@ You can either make a local or a global installation.
 #### ``UpdatePopulation.m``	Rename UpdatePopulation to UpdatePopulation.m	a year ago
 #### ``algorithm_parameters.cfg``	Create algorithm_parameters.cfg	a year ago
 
-* ``findpaths.m``	Create findpaths.m	a year ago
+#### * ``findpaths.m``	Create findpaths.m	a year ago
 
 
 ## Support
