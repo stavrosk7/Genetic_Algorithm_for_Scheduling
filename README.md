@@ -42,16 +42,14 @@ git commit -m "Use README Boilerplate"
 
 ## Usage
 
-Replace the contents of `README.md` with your project's:
+The source code in Matlab and compiled executables with an interactive interface are available at: [Git](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
 
-* Name
-* Description
-* Installation instructions
-* Usage instructions
-* Support instructions
-* Contributing instructions
+The command to execute the instance generator is: > java pfc.ingsw.ProblemGenerator <conﬁguration ﬁle> <output ﬁle> The instance generated can be invalid, that is, it can not be found a solution for it. The ﬁrst line of the output ﬁle is a comment line that indicates whether the instance is valid or not.
 
-Feel free to remove any sections that aren't applicable to your project.
+You can either make a local or a global installation. 
+* Open the folder GeneticAlgorithmforScheduling 
+* Edit the .cfg ﬁles in the folder GeneticAlgorithmforScheduling 
+* Run GeneticAlgorithmforScheduling/main.m
 
 ## Support
 
