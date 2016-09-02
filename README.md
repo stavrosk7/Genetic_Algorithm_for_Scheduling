@@ -42,7 +42,10 @@ git commit -m "Use README Boilerplate"
 
 ## Usage
 
-The source code in Matlab and compiled executables with an interactive interface are available at: [Git](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
+The source code in Matlab and compiled executables with an interactive interface are available at: 
+```sh
+[Git](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
+```
 
 The command to execute the instance generator is: > java pfc.ingsw.ProblemGenerator <conﬁguration ﬁle> <output ﬁle> The instance generated can be invalid, that is, it can not be found a solution for it. The ﬁrst line of the output ﬁle is a comment line that indicates whether the instance is valid or not.
 
