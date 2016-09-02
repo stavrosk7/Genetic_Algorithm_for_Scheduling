@@ -14,36 +14,19 @@ The Project Scheduling Problem (PSP) consists in deciding who does what during t
 
 ![psp](http://tracer.lcc.uma.es/problems/psp/ingsw-instance.gif )
 
-
-## Experiments
-
-Bla bla
-
-|  Dataset  |  Result |
-|:---------:|:-------:|
-| name.     |     n%  |
-| name      |     n%  |
-
-1.  First  plot:
-![one](https://github.com/r10.png "one")
-2.  Second Plot:
-![two](https://github.com/100.png "two")
-
 ## Installation and Usage
 
 The source code in Matlab and compiled executables with an interactive interface are available at: 
 ```sh
 https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
 ```
-
-The command to execute the instance generator is: > java pfc.ingsw.ProblemGenerator <conﬁguration ﬁle> <output ﬁle> The instance generated can be invalid, that is, it can not be found a solution for it. The ﬁrst line of the output ﬁle is a comment line that indicates whether the instance is valid or not.
-
 You can either make a local or a global installation. 
 ```sh
 * Open the folder GeneticAlgorithmforScheduling 
 * Edit the .cfg ﬁles in the folder GeneticAlgorithmforScheduling 
 * Run GeneticAlgorithmforScheduling/main.m
 ```
+
 ## Support
 
 Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
