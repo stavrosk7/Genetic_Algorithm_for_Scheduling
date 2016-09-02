@@ -1,6 +1,6 @@
 # Genetic Algorithm for Solving [Software Project Scheduling Problems](http://tracer.lcc.uma.es/problems/psp/index.html).
 
-By [Stavros Kalaouzis](https://github.com/skalaouzis).
+By [Stavros Kalaouzis](https://github.com/skalaouzis)., 2015
 
 ## Information
 
@@ -18,12 +18,12 @@ The source code in Matlab and compiled executables with an interactive interface
 ```sh
 https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
 ```
-You can either make a local or a ``global installation``. 
-```sh
-* Open the folder GeneticAlgorithmforScheduling 
-* Edit the .cfg ﬁles in the folder GeneticAlgorithmforScheduling 
-* Run GeneticAlgorithmforScheduling/main.m
-```
+You can either make a local or a global installation. 
+
+* \textbf{Open:} the folder ``GeneticAlgorithmforScheduling`` 
+* Edit: the `` .cfg`` ﬁles in the folder ``GeneticAlgorithmforScheduling`` 
+* Run: ``GeneticAlgorithmforScheduling/main.m``
+
 * EvaluateObjectives.m	Create EvaluateObjectives.m	a year ago
 * GenerateInitialPopulation.m	Create GenerateInitialPopulation.m	a year ago
 * InitialInstances.m	Create InitialInstances.m	a year ago
