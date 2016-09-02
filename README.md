@@ -1,4 +1,4 @@
-# Project Name
+# Genetic Algorithm for Solving [Software Project Scheduling Problems](http://tracer.lcc.uma.es/problems/psp/index.html).
 
 By [Stavros Kalaouzis](https://github.com/skalaouzis).
 
@@ -6,7 +6,7 @@ Paper: [name, name, name., "paper name", resource:number (2016)](http://www.goog
 
 ## Information
 
-A template of README best practices to make your README simple to understand and easy to use. 
+That genetic algorithm obtains the data of the problem regarding the tasks and the employees of the project. In this process it groups the tasks through an evolutionary strategy. The outcome provides a solution with the corresponding cost and duration of the project tasks within their given constraints.
 
 ## Experiments
 
@@ -54,6 +54,3 @@ Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
 
 
-Genetic Algorithm for Solving Software Project Scheduling Problems
--------------------------------------------------------------------------------------------
-That genetic algorithm obtains the data of the problem regarding the tasks and the employees of the project. In this process it groups the tasks through an evolutionary strategy. The outcome provides a solution with the corresponding cost and duration of the project tasks within their given constraints.
