@@ -18,7 +18,7 @@ The source code in Matlab and compiled executables with an interactive interface
 ```sh
 https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling)
 ```
-You can either make a local or a global installation. 
+You can either make a local or a ``global installation``. 
 ```sh
 * Open the folder GeneticAlgorithmforScheduling 
 * Edit the .cfg ﬁles in the folder GeneticAlgorithmforScheduling 
