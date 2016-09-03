@@ -26,7 +26,7 @@ You can either make a local or a global installation.
 
 
 
-#### ``main.m``	main
+#### [``main.m``](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m):	the main program.
 ##### ``InitialInstances.m``	
 ###### ``inst10-10-10-5.cfg``
 ###### ``algorithm_parameters.cfg``	
