@@ -24,7 +24,7 @@ You can either make a local or a global installation.
 * Edit: the `` .cfg`` ﬁles in the folder ``GeneticAlgorithmforScheduling`` 
 * Run: ``GeneticAlgorithmforScheduling/main.m``
 
-
+The files of the Project.
 
 * ``main.m``:  this [file](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m) is	the main program.
 * |__ ``InitialInstances.m``	
