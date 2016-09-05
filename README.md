@@ -26,17 +26,17 @@ You can either make a local or a global installation.
 
 The files of the Project.
 
-* ``main.m``:  this [file](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m) is	the main program.
-* |__ ``InitialInstances.m``	
-* |____ ``inst10-10-10-5.cfg``
-* |____ ``algorithm_parameters.cfg``	
-* |____ ``dedication.cfg``
-* |__ ``GenerateInitialPopulation.m``	
-* |__ ``Selection_EvolutionaryOperators.m``	
-* |____ ``findpaths.m``	
-* |__ ``EvaluateObjectives.m``	
-* |__ ``UpdatePopulation.m``	
-* |__ ``ReturnBestSolution.m``	
+* ``main.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m) is	the main program.
+* |__ ``InitialInstances.m``:  this [script]() is the
+* |____ ``inst10-10-10-5.cfg``:  this [script]() is the
+* |____ ``algorithm_parameters.cfg``:  this [script]() is the	
+* |____ ``dedication.cfg``:  this [script]() is the
+* |__ ``GenerateInitialPopulation.m``:  this [script]() is the	
+* |__ ``Selection_EvolutionaryOperators.m``:  this [script]() is the	
+* |____ ``findpaths.m``:  this [script]() is the	
+* |__ ``EvaluateObjectives.m``:  this [script]() is the	
+* |__ ``UpdatePopulation.m``:  this [script]() is the	
+* |__ ``ReturnBestSolution.m``:  this [script]() is the	
 
 
 
