@@ -26,17 +26,17 @@ You can either make a local or a global installation.
 
 The files of the Project.
 
-* ``main.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m) is	the main program.
-* |__ ``InitialInstances.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/InitialInstances.m) is the
-* |____ ``inst10-10-10-5.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/inst10-10-10-5.cfg) is the
-* |____ ``algorithm_parameters.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/algorithm_parameters.cfg) is the	
-* |____ ``dedication.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/dedication.cfg) is the
-* |__ ``GenerateInitialPopulation.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/GenerateInitialPopulation.m) is the	
-* |__ ``Selection_EvolutionaryOperators.m``:  this [script]() is the	
-* |____ ``findpaths.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/findpaths.m) is the	
-* |__ ``EvaluateObjectives.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/EvaluateObjectives.m) is the	
-* |__ ``UpdatePopulation.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/UpdatePopulation.m) is the	
-* |__ ``ReturnBestSolution.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/ReturnBestSolution.m) is the	
+* |-``main.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m) is	the main program.
+* |-- ``InitialInstances.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/InitialInstances.m) is the
+* |---- ``inst10-10-10-5.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/inst10-10-10-5.cfg) is the
+* |---- ``algorithm_parameters.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/algorithm_parameters.cfg) is the	
+* |---- ``dedication.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/dedication.cfg) is the
+* |-- ``GenerateInitialPopulation.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/GenerateInitialPopulation.m) is the	
+* |-- ``Selection_EvolutionaryOperators.m``:  this [script]() is the	
+* |---- ``findpaths.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/findpaths.m) is the	
+* |-- ``EvaluateObjectives.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/EvaluateObjectives.m) is the	
+* |-- ``UpdatePopulation.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/UpdatePopulation.m) is the	
+* |-- ``ReturnBestSolution.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/ReturnBestSolution.m) is the	
 
 
 
