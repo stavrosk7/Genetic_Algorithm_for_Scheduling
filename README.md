@@ -27,7 +27,7 @@ You can either make a local or a global installation.
 The files of the Project.
 
 * ``main.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/main.m) is	the main program.
-* |__ ``InitialInstances.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/InitialInstances.m) is the
+* |__ ``InitialInstances.m``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/InitialInstances.m) is the dataset with 10 tasks, 10 employees and 5 related skills in Task Precedence Graph (TPG).
 * |____ ``inst10-10-10-5.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/inst10-10-10-5.cfg) is the
 * |____ ``algorithm_parameters.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/algorithm_parameters.cfg) is the	
 * |____ ``dedication.cfg``:  this [script](https://github.com/skalaouzis/Genetic_Algorithm_for_Scheduling/blob/master/dedication.cfg) is the
