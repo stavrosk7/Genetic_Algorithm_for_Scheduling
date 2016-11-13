@@ -1,6 +1,6 @@
 # Genetic Algorithm for Solving [Software Project Scheduling Problems](http://tracer.lcc.uma.es/problems/psp/index.html).
 
-By [Stavros Kalaouzis](https://github.com/skalaouzis)., 2015
+By [Stavros Kalaouzis](https://github.com/skalaouzis)., 2015        
 
 ## Information
 
